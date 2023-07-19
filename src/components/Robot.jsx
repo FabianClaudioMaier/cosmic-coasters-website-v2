@@ -11,7 +11,7 @@ const Robot = () => {
       setIsAnimating((prevState) => !prevState);
     };
     return (
-        <div>
+        <div className='rounded-2xl border border-gray-800 p-6'>
                       <div className="flex">
   <div className="w-1/5">
     <img src={bot} className="w-full h-auto" alt="Cosmic Coasters Chatbot" />

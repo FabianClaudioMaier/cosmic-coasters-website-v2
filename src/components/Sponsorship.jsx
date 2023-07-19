@@ -1,5 +1,5 @@
 import React from 'react';
-import {  bronze, platinum, silver } from '../assets';
+import {  bronze, gold, platinum, silver } from '../assets';
 
 
 import { SectionWrapper } from '../hoc';
@@ -14,6 +14,11 @@ const Sponsorship = () => {
 
     <section className="about-section bg-dark">
   <div className="py-8 px-4 md:py-16 md:px-8 mb-8 bg-[#232631] rounded-[20px] ">
+  <img
+            src={gold}
+            alt='gold'
+            className='w-[100%] h-[30%] object-contain '
+          />
     <div className="container mx-auto sm:px-4">
       <h2 className="text-2xl font-montserrat font-semibold text-white">Sponsoring Concept</h2>
       <p className="text-justify text-base font-montserrat text-white">

@@ -9,6 +9,7 @@ import offi from './BiconOff.png'
 import partylogo from "./partylogo.png";
 import rocket from "./rocket.png";
 import you from "./you.png";
+import gold from "./gold.png";
 import silver from "./silver.png";
 import bronze from "./bronze.png";
 import platinum from "./platinum.png";
@@ -50,6 +51,7 @@ import jobit from "./jobit.png";
 export {
   logo,
   history,
+  gold,
   fhlogo,
   elvis,
   mission,
