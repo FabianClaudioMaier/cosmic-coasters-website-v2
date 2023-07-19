@@ -5,7 +5,7 @@ import fhlogo from "./FH_logo.png";
 import elvis from "./elvis_logo.png";
 import team from './team.jpeg'
 import oni from './BiconOn.png'
-import offi from './Biconoff.png'
+import offi from './BiconOff.png'
 import partylogo from "./partylogo.png";
 import rocket from "./rocket.png";
 import you from "./you.png";
