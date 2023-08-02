@@ -72,6 +72,9 @@ const Sponsorship = () => {
       <p className="text-white">Sponsorship fee: 2500 €</p>
       <ul className="flex flex-col pl-0 mt-4 space-y-4">
         <li className="text-white">Logo on team clothing</li>
+        <a className="bg-gray-700 hover:bg-gray-900 text-white py-2 px-4 rounded absolute bottom-0 right-0 m-3" href='https://cosmic-customizer.vercel.app/' >
+        Customise your t-shirt
+      </a>
         <li className="text-white">Logo on roll-ups</li>
         <li className="text-white">Logo on flyers and posters</li>
         <li className="text-white">Logo on PowerPoint slide shown at every public presentation</li>
