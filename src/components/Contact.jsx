@@ -40,7 +40,7 @@ const Contact = () => {
           from_name: form.name,
           to_name: "Coasmic coasters",
           from_email: form.email,
-          to_email: "samy432002@gmail.com",
+          to_email: "office.cosmic.coasters@gmail.com",
           message: form.message,
         },
        'c-zVX6FlwmKM3Xa0d'
