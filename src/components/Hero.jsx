@@ -51,8 +51,13 @@ const Hero = () => {
          
         </a>
       </div>
-    </section>  <section className={`relative w-32 h-screen mx-auto`}> <a href="#bot"><img className="absolute  bottom-0 right-0 m-5 w-36 "  src={imageSrc}   onMouseEnter={handleHover}
-        onMouseLeave={handleHover} alt="boticon" /></a></section></div>
+    </section>  
+    
+    {/*
+      <section className={`relative w-32 h-screen mx-auto`}> <a href="#bot"><img className="absolute  bottom-0 right-0 m-5 w-36 "  src={imageSrc}   onMouseEnter={handleHover}
+        onMouseLeave={handleHover} alt="boticon" /></a></section>
+  */}  
+        </div>
   );
 };
 
