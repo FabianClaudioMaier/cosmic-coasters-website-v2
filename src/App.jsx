@@ -20,7 +20,9 @@ const App = () => {
         <Works />
         <Sponsors />
         <div className='relative z-0 bg-black'>
-<Robot/>
+{
+//<Robot/>
+}
           <Contact />
           <StarsCanvas />
         </div>

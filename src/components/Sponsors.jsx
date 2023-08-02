@@ -47,7 +47,7 @@ const Sponsers = () => {
       </div>
 
     </div>
-   {/*<div className="mt-8"> <Sponsorship/></div> */} 
+   {/*<div className="mt-8"> <Sponsorship/></div> */}
    </>
  ;
 };
