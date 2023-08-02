@@ -34,8 +34,8 @@ const Contact = () => {
 
     emailjs
       .send(
-      'service_60pudhw',
-     'template_85h94y7',
+      'service_5qixdsa',
+     'template_h7sehoe',
         {
           from_name: form.name,
           to_name: "Coasmic coasters",
@@ -43,7 +43,7 @@ const Contact = () => {
           to_email: "office.cosmic.coasters@gmail.com",
           message: form.message,
         },
-       'c-zVX6FlwmKM3Xa0d'
+       '9ZVaYP_vojly_Z11z'
         
       )
       .then(
@@ -103,7 +103,7 @@ const Contact = () => {
               name='email'
               value={form.email}
               onChange={handleChange}
-              placeholder="What's your web address?"
+              placeholder="What's your mail address?"
               className='bg-[#121212] py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium'
             />
           </label>
