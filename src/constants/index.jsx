@@ -85,7 +85,7 @@ const experiences = [
     ],
   },
   {
-    title: "Jobmesse",
+    title: "Jobfair",
   image:jobmesse,
     icon: jobmesselogo,
     iconBg: "#232631",
@@ -103,7 +103,7 @@ const experiences = [
     iconBg: "black",
   
     points: [
-      `You want to join the team and participate`,
+      `You want to join the team and participate? Visit our Recruting Event in the fall of 2023. Or contact us now.`,
       <a href="mailto:software@cosmic-coasters.at" className="text-white border border-white  bg-transparent hover:bg-black py-2 px-4 rounded inline-flex items-center my-3">Reach out</a>,
 
     ],
@@ -132,7 +132,7 @@ reach:<a href="https://elvis.science/" className="text-white border border-white
   { name:'Maybe you?',
   image:you,
      description:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "We are always glad to welcome new contributors. You want to support us in our endavours? Feel free to reach out to us! ",
       reach:<a href="mailto:sponsoring@comsic-coasters.at" className="text-white border border-white  bg-transparent hover:bg-black py-2 px-4 rounded inline-flex items-center my-3">Reach out</a>,
 
   
